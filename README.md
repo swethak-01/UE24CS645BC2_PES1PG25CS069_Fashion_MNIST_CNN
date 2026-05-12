@@ -151,7 +151,7 @@ UE24CS645BC2_PES1PG25CS069_Fashion_MNIST_CNN/
 
 # Academic Information
 
-Student Name: Your Name
+Student Name: Swetha K
 
 USN: PES1PG25CS069
 
